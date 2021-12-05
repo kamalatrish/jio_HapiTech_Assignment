@@ -1,0 +1,20 @@
+{
+    "response" : {
+        "status" :true,
+        "dataList": [
+            {
+                "name" : "Rahul Gupta",
+                "isStarred" : false
+            },{
+                "name" : "Shivangi Sharma",
+                "isStarred" : true
+            },{
+                "name" : "Vivek Sharma",
+                "isStarred" : false
+            }
+        ]
+    }
+}
+
+
+
