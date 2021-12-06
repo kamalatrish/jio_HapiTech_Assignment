@@ -12,12 +12,3 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
 }
-.colorGray{
-  background-color: lightblue;
-}
-.divide{
-  flex: 45%;
-}
-.displayFlex{
-  display: flex;
-}

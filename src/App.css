@@ -36,3 +36,40 @@
     transform: rotate(360deg);
   }
 }
+
+.title{
+  background-color: lightblue;
+  height: 40px;
+  font-size: 20px;
+  font-weight: bold;
+  padding: 15px 0px 10px 40px;
+}
+.divide{
+  padding: 10px;
+  flex: 45%;
+}
+.displayFlex{
+  border-style: ridge;
+  display: flex;
+}
+
+.trashIcon{
+  padding: 10px;
+}
+.starFillIcon{
+  padding: 10px;
+}
+.starIcon{
+  padding: 10px;  
+}
+.submitBtn{
+  flex: 45%;
+  display: inline-block;
+}
+.supportText{
+  font-size: 12px;
+}
+.addFriend{
+  margin: 10px;
+  height: 40px
+}
